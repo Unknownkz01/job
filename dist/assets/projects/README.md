@@ -1,3 +1,3 @@
-# Project images
+# Изображения проектов
 
-Replace the visual placeholders with licensed screenshots named `spm-industry.webp` and `novaboost.webp`, then update the project renderer in `script.js` to use them.
+Сейчас карточки используют типографические обложки. Для добавления скриншотов разместите файлы здесь, обновите шаблон в `scripts/render.mjs` и выполните `npm run build`.

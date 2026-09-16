@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://gk-development-studio.zhorakim.chatgpt.site/sitemap.xml
